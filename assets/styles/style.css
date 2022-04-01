@@ -31,7 +31,7 @@ p{
 
 /* header section 1 */
 .nav{
-    border: 4px solid red;
+    /* border: 4px solid red; */
     width: 85%;
     margin: 1em auto;
     overflow: auto;
@@ -107,7 +107,7 @@ p{
 /* Ads-1 section 3 */
 
 .ads{
-    border: 4px solid red;
+    /* border: 4px solid red; */
     width: 85%;
     margin: 4em auto;
     overflow: auto;
@@ -163,12 +163,12 @@ p{
 /* merchandise section 4 */
 
 .merch{
-    border: 4px solid red;
+    /* border: 4px solid red; */
     width: 85%;
     margin: 4em auto;
 }
 .section-header{
-    border: 2px dashed yellow;
+    /* border: 2px dashed yellow; */
     text-align: center;
 }
 .section-header span{
@@ -187,12 +187,12 @@ p{
     margin: auto;
 }
 .merch-gallery{
-    border: 2px dashed green;
+    /* border: 2px dashed green; */
     overflow: auto;
     margin-top: 2em;
 }
 .merch-items{
-    border: 2px solid black;
+    /* border: 2px solid black; */
     width: 24%;
     float: left;
     margin-right: 1.33%;
@@ -214,7 +214,7 @@ p{
 
 /* discount section 5 */
 .discount{
-    border: 4px solid red;
+    /* border: 4px solid red; */
     width: 85%;
     height: 350px;
     margin: 4em auto;
@@ -225,7 +225,7 @@ p{
     position: relative;
 }
 .discount-text{
-    border: 3px dashed yellow;
+    /* border: 3px dashed yellow; */
     position: absolute;
     left: 50%;
     top: 50%;
@@ -344,7 +344,7 @@ form input,form textarea,form select{
 .form-group h3::after{
     content:"";
     display: block;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     height: 30px;
     width: 150px;
     margin: auto;
@@ -374,7 +374,7 @@ input[type=submit]{
 /* footer-1 section 9  */
 
 .footer{
-    border: 4px solid red;
+    /* border: 4px solid red; */
     background-image: url(../images/footer-img.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -383,7 +383,7 @@ input[type=submit]{
     margin-top: 2em;
 }
 .footer-content{
-    border: 2px dashed white;
+    /* border: 2px dashed white; */
     overflow: auto;
     width: 85%;
     margin: auto;
@@ -424,12 +424,12 @@ input[type=submit]{
 /* footer-2 section 10 */
 
 .footer-social{
-    border: 4px solid red;
+    /* border: 4px solid red; */
     background-color: #19100f;
     overflow: auto;
 }
 .social-widgets{
-    border: 2px dashed white;
+    /* border: 2px dashed white; */
     float: left;
     width: 33.33%;
     text-align: center;
